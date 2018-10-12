@@ -271,3 +271,22 @@ article.post-gallery h2 {
 article.post-gallery img {
   border: none !important;
 }
+
+/*main column*/
+.main-column {
+  width: 66%;
+  float: left;
+}
+
+.secondary-column {
+  width: 30%;
+  float: right;
+}
+
+/*footer widget areas*/
+.footer-widget-area {
+  width: 25%;
+  float: left;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
