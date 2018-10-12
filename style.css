@@ -231,3 +231,43 @@ div.hd-search #s {
   vertical-align: top;
   padding: 3px 0;
 }
+
+/*aside*/
+article.post-aside, article.post-link {
+  font-size: 125%;
+  background-color: #FFF5CB;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+}
+
+.mini-meta {
+  font-size: 68%;
+  margin: 0;
+  #777;
+}
+
+article.post-link {
+  padding: 0;
+  background-color: #E0EBFF;
+}
+
+article.post-link a {
+  display: block;
+  padding: 20px;
+}
+
+/*gallery*/
+article.post-gallery {
+  background-color: #222;
+  color: #FFF;
+  padding: 20px;
+}
+
+article.post-gallery h2 {
+  text-align: center;
+}
+
+article.post-gallery img {
+  border: none !important;
+}
