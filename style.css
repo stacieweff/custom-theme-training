@@ -290,3 +290,17 @@ article.post-gallery img {
   padding-right: 40px;
   box-sizing: border-box;
 }
+
+/*post-columns*/
+.home-columns {
+  padding-top: 30px;
+}
+.one-half {
+  width: 45%;
+  float: left;
+  margin-right: 10%;
+}
+
+.last {
+  margin-right: 0;
+}
